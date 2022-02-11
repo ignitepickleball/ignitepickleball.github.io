@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page3.html",
+    "currentPage": "lessons.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -2168,7 +2168,7 @@
         }
       ]
     },
-    "page3.html": {
+    "resources.html": {
       "settings": {
         "title": "Resources",
         "order": 1
