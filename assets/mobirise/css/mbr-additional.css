@@ -1673,6 +1673,24 @@ a {
     padding: 2rem;
   }
 }
+.cid-sXmL8SA3Eq {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sXmL8SA3Eq .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sXmL8SA3Eq img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sXmL8SA3Eq .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-sX3xtQzKV8 {
   padding-top: 3rem;
   padding-bottom: 3rem;
