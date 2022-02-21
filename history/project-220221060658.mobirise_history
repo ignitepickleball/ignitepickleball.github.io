@@ -48,14 +48,17 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/3-128x128.png",
-    "mbrsiteDomain": "mhjl41irg0",
+    "mbrsiteDomain": "u3o02vbqkr",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": ""
+    "google-analytics": "<script type=\"text/javascript\" src=\"https://platform-api.sharethis.com/js/sharethis.js#property=62098c1ba311b1001939f8e5&product=inline-follow-buttons\" async=\"async\"></script>\n<div class=\"sharethis-inline-follow-buttons\"></div>",
+    "publishType": "local",
+    "mbrsite": "mbrsite://%7B%22id%22%3A186958%2C%22domain%22%3A%22mhjl41irg0.mobirisesite.com%22%7D",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
