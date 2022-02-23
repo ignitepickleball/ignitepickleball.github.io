@@ -55,7 +55,10 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=620a594833b7500019540ecc&product=sop' async='async'></script>"
+    "google-analytics": "<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=620a594833b7500019540ecc&product=sop' async='async'></script>",
+    "publishType": "local",
+    "mbrsite": "mbrsite://%7B%22id%22%3A186958%2C%22domain%22%3A%22mhjl41irg0.mobirisesite.com%22%7D",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
