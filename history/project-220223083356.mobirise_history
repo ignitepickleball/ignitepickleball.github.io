@@ -526,7 +526,7 @@
           "_cid": "sXJfypblhv",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script src=\"https://widgets.remind.com/iframe.js?token=df8c4a807538013a3c720242ac110005&height=500&join=true\"></script>"
+            "<script src=\"https://widgets.remind.com/iframe.js?token=df8c4a807538013a3c720242ac110005&height=600&join=true\"></script>"
           ],
           "_protectedParams": [],
           "_global": false,
